@@ -1,5 +1,5 @@
     const Hapi      = require('@hapi/hapi'),
-    ScrapingHandler = require('./ScrapingHandler');
+    ScrapingHandler = require('./scrapingHandler');
 
     const init = async () => {
 
